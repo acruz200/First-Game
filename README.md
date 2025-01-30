@@ -6,6 +6,10 @@ Scipts from Tutorial
 
 You move with WASD and shoot with left click mouse button
 
+I added some watermelons as targets and for my planes i added gradient images that i created using gimp online tools
+
+I add a traffic light, street light, and some trees around the city to give it more life 
+
 Player wins if all 5 targets are destroyed
 
 Miguel Oscar Madrigal II 
